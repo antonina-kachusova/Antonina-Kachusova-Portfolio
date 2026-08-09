@@ -4,8 +4,8 @@
 
 ## Links
 
-- [View Live Site](PASTE_PORTFOLIO_LIVE_LINK_HERE)
-- [GitHub Repository](PASTE_PORTFOLIO_GITHUB_LINK_HERE)
+- [View Live Site](https://antonina-kachusova-portfolio.vercel.app/)
+- [GitHub Repository](https://github.com/antonina-kachusova/Antonina-Kachusova-Portfolio)
 - [LinkedIn](https://www.linkedin.com/in/antonina-kachusova/)
 
 ---
